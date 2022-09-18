@@ -1,1 +1,1 @@
-g++ -std=c++11 -o Lleabharlanna.o -Wall main.cpp
+g++ -std=c++11 -o leabharlanna«¿.o -Wall main.cpp
