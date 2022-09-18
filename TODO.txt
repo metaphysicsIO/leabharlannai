@@ -1,0 +1,8 @@
+[ ] Allow search by title, author, and isbn (currently only isbn)
+[ ] Create remove function
+[ ] Add sort function to menu
+[ ] Add load feature (library.TSV)
+[ ] Add save feature (library.TSV)
+[ ] Add "purchase, purchased, read, to read, dropped" status per book
+
+
